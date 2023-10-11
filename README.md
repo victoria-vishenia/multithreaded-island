@@ -1,4 +1,4 @@
-# multithreaded-island
+# Multithreaded island (Dynamic island)
 
 **Description**
 
